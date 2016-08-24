@@ -1,4 +1,3 @@
-layout_spectrum: 0.09154691733419895
 typography_spectrum: 0.5191639543045312
 color:
   brandStrength: 0.29571833834052086
@@ -6,9 +5,11 @@ color:
   saturation: 0.4473130146507174
   rhythmicContrast: 0.26949742319993675
   brandColors:
-    - '#004358'
-    - '#1F8A70'
-    - '#BEDB39'
-    - '#FFE11A'
-    - '#FD7400'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+layout_spectrum: 0.09154691733419895
 name: Christian Comiti
+title: Just me
